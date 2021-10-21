@@ -6,6 +6,8 @@
 - 👯 I'm looking for helping more and more [#step-into-front-end-2020](https://youtu.be/bwGe9V5CNbw) . [#get-started-with-react-2019](https://youtu.be/EIxHoUeK_Mo) . [#async-javascript](https://github.com/MohamedElmdary/js-async-presentation) . [#build-redux-from-scratch](https://github.com/MohamedElmdary/redux-from-scratch)
 
 
+<!-- ![xsa](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=MohamedElmdary) -->
+![skills chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=MohamedElmdary)
 
 [![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedElmdary)](https://github.com/anuraghazra/github-readme-stats)
 
